@@ -1,3 +1,4 @@
-# django-password-generator
+#Password Generator
 Educational Project.
-Thi is a web Application which generate password strong.
+This is a web Application which generate password strong.
+This web application create with Django.
